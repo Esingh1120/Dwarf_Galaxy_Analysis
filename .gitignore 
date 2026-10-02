@@ -1,0 +1,15 @@
+# Ignore data files and tables
+*.csv
+*.fits
+*.hdf5
+*.h5
+*.xlsx
+*.json
+
+# Ignore folders typically used for raw data
+data/
+datasets/
+
+# Ignore local environment checkpoints
+.ipynb_checkpoints/
+
