@@ -1,0 +1,2 @@
+../Dwarf_Galaxy_Analysis/L26101612211801B6022730_PH00.fits
+../Dwarf_Galaxy_Analysis/L26101612211801B6022730_PH01.fits
